@@ -45,3 +45,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+![happy](https://user-images.githubusercontent.com/65419098/106224179-9d441800-61c1-11eb-8823-9b71b6ebbdbc.png)
+
